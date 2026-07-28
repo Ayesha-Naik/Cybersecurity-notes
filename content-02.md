@@ -17,6 +17,7 @@ Computer ke 3 main kirdaar:
 - Temporary memory — abhi ka kaam yahan chalta hai
 - Bahut fast
 - Light gayi to saara data **gayab** ho jata hai.
+  
 **SSD / HDD (Non-volatile):**
 - Permanent storage — sab kuch yahan save rehta hai
 - RAM ke muqable slow
