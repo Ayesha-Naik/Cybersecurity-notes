@@ -8,7 +8,7 @@ Computer ke 3 main kirdaar:
 
 ## 2. Memory ke types + CPU ka basic kaam
 **Memory 2 tarah ki:**
-- **RAM** — abhi ka kaam yahan chalta hai (temporary, fast)
+- **RAM** — abhi ka kaam yahan chalta hai (temporary, fast).
 - **Storage (SSD/HDD)** — sab kuch permanent yahan rehta hai
 **CPU ka basic kaam:** RAM se instruction leta hai → samajhta hai → kaam karta hai. Yeh baar               baar (billions/second) hota hai.
 
@@ -16,7 +16,7 @@ Computer ke 3 main kirdaar:
 **RAM (Volatile):**
 - Temporary memory — abhi ka kaam yahan chalta hai
 - Bahut fast
-- Light gayi to saara data **gayab** ho jata hai
+- Light gayi to saara data **gayab** ho jata hai.
 **SSD / HDD (Non-volatile):**
 - Permanent storage — sab kuch yahan save rehta hai
 - RAM ke muqable slow
