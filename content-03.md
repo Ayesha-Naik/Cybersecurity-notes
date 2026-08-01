@@ -89,7 +89,7 @@ Har OS ka apna maqsad aur khaasiyat hai:
 
 **Example:** OS ek **gaadi** hai, kernel us gaadi ka **engine.** Tum steering, seat, screen (baaki OS) use karti ho, par asli kaam engine (kernel) karta hai — chupa hua, par sab kuch usi pe chalta hai.
 
-**Yaad rakho:** "Linux" asal mein **kernel ka naam** hai. Ubuntu, Kali waghera us kernel ke upar bane poore OS hain.
+**Yaad rakho:** "Linux" asal mein **kernel ka naam** hai. Ubuntu, Kali waghera us kernel ke upar bane poore (OS) hain.
 
 ---
 
