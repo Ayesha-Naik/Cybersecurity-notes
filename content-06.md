@@ -9,7 +9,7 @@ tac file.txt          # poori file ULTI dikhata hai (aakhri line se pehli tak)
 head file.txt         # sirf pehli 10 lines dikhata hai
 tail file.txt         # sirf aakhri 10 lines dikhata hai
 less file.txt         # badi file ko page-by-page dikhata hai (scroll karke padho, q se bahar)
-more file.txt         # less jaisa - thoda thoda karke dikhata hai
+more file.txt         # less jaisa - thoda thoda karke dikhata hai.
 ```
 
 **Naam aur working:**
