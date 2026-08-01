@@ -4,7 +4,7 @@
 Windows ki tarah Linux mein sab kuch "file" hi hota hai, par unke **types** alag hote hain. Har file ka ek nishaan (letter) hota hai jo `ls -l` command se dikhta hai:
 
 ```bash
-ls -l        # files ko detail ke saath dikhao (type, size, date)
+ls -l        # files ko detail ke saath dikhao (type, size, date.
 ```
 
 Jab `ls -l` chalao, to har line ke shuru mein ek letter hota hai — wahi file ka type batata hai:
