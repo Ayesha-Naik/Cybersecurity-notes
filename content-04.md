@@ -7,7 +7,7 @@
 - Programs ki farmaish leta hai (jaise "file kholni hai")
 - Hardware ko hukum deta hai (CPU, RAM, disk se kaam karwata)
 - Memory aur processes sambhalta hai
-- Sab kuch sahi chalta rahe, iska dhyan rakhta hai
+- Sab kuch sahi chalta rahe, iska dhyan rakhta hai.
 
 **Example:** OS ek **gaadi** hai, kernel us gaadi ka **engine.** Baaki OS (screen, icons) tum dekhti ho, par asli kaam engine (kernel) chupa hua karta hai.
 
