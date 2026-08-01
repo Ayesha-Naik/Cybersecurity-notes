@@ -88,4 +88,4 @@ Jab **Ctrl + S** dabati ho:
 
 **Simple:** BIOS ek "sabse pehla worker" hai jo system ON hote hi jaag jaata hai, sab check karta hai, phir baaki system (OS) ko jagata hai — taake computer use karne ke liye ready ho jaye.
 
-** Example:** Jaise ghar ka chowkidar subah sabse pehle uthta hai, ghar ke saare darwaze/lights check karta hai (**POST**), phir baaki ghar walon (**OS**) ko jaga kar kaam start karwata hai — bilkul waise hi BIOS computer ke saath karta hai.
+** Example:** Jaise ghar ka chowkidar subah sabse pehle uthta hai, ghar ke saare darwaze/lights check karta hai (**POST**), phir baaki ghar walon (**OS**) ko jaga kar kaam start karwata hai — bilkul waise hi BIOS computer ke saath karta ha.
