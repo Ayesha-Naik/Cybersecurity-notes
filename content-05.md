@@ -25,7 +25,7 @@ Jab aam user koi aisa kaam karna chahe jiske liye **zyada power** chahiye (jaise
 4. System **password** poochta hai (pakka karne ke liye ke user ke paas ijazat hai)
 5. Sahi password → kaam ho jata hai (root ki power se)
 
-**Example:** Guest (user) ko kitchen jaana hai. Wo manager (root) se ijazat maangta hai (`sudo`), manager ID check karta hai (password), phir jaane deta hai. Yani user thodी der ke liye root ki power udhaar leta hai.
+**Example:** Guest (user) ko kitchen jaana hai. Wo manager (root) se ijazat maangta hai (`sudo`), manager ID check karta hai (password), phir jaane deta hai. Yani user thori der ke liye root ki power udhaar leta hai.
 
 ---
 
