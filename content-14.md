@@ -1,4 +1,4 @@
-# Class 14 — Networking (Internet, IP, ping, ssh aur poora Request ka Safar)
+# Class 14 — Networking (Internet, IP, ping,ssh,TTL,telent,curl & wget,Request process)
 
 ## 1. Internet kya hai?
 **Internet** = duniya bhar ke computers ka ek **bada jaal (network)** jo aapas mein jude hue hain aur data (message, photo, video) ek doosre ko bhejte hain.
