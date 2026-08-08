@@ -8,13 +8,16 @@ Computer, network aur data ko bina ijazat access, chori ya nuksan se bachana.
 - **Availability** — jab chahiye, tab mile (mojood rahe)
  
 ## 2. Communication ke types:
+bash```
 Data kis taraf jata hai:
 TYPE                        COMMUNICATION                     EXAMPLE
 |   Simplex      | Sirf ek taraf  communication    | TV/Radio, keyboard → PC |
 | Half-Duplex    |        Dono taraf , bari bari   | Walkie-talkie |
 | Full-Duplex    | Dono taraf, ek saath            | Phone calls;google meet |
 Connection: **Wired** (cable, fast) ya **Wireless** (WiFi, aasaan).
- 
+
+ ```
+
 ## 3. Computer ke Parts
 Computer Ke parts samjho:
 - **External Parts:** 
