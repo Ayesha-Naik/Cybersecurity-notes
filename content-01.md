@@ -9,6 +9,7 @@ Computer, network aur data ko bina ijazat access, chori ya nuksan se bachana.
  
 ## 2. Communication ke types:
 bash```
+
 Data kis taraf jata hai:
 TYPE                        COMMUNICATION                     EXAMPLE
 |   Simplex      | Sirf ek taraf  communication    | TV/Radio, keyboard → PC |
