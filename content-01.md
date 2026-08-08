@@ -7,10 +7,10 @@ Computer, network aur data ko bina ijazat access, chori ya nuksan se bachana.
 - **Integrity** — data beech mein koi badle na (sahih rahe)
 - **Availability** — jab chahiye, tab mile (mojood rahe)
  
-## 2. Communication ke types:
+## 2. Communication ke types
+Data kis taraf jata hai:
 bash```
 
-Data kis taraf jata hai:
 TYPE                        COMMUNICATION                     EXAMPLE
 |   Simplex      | Sirf ek taraf  communication    | TV/Radio, keyboard → PC |
 | Half-Duplex    |        Dono taraf , bari bari   | Walkie-talkie |
